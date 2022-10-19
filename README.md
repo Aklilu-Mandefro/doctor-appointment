@@ -124,8 +124,6 @@ MySQL Version: 		5.7.26
 
 
 --------------------------------------------------------
-# For any further information contact me through my blog at:
-https://volunteer-tech.com/Aklilu
 
 <hr>
 
